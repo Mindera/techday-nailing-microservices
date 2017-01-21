@@ -1,0 +1,29 @@
+${AnsiColor.RED}█████████████████████████████████████████████████${AnsiStyle.NORMAL}
+${AnsiColor.RED}█████████████████${AnsiColor.BRIGHT_YELLOW}███████████████${AnsiColor.RED}█████████████████${AnsiStyle.NORMAL}
+${AnsiColor.RED}██████████████${AnsiColor.BRIGHT_YELLOW}█████████████████████${AnsiColor.RED}██████████████${AnsiStyle.NORMAL}
+${AnsiColor.RED}████████████${AnsiColor.BRIGHT_YELLOW}██████████████████████████${AnsiColor.RED}███████████${AnsiStyle.NORMAL}
+${AnsiColor.RED}██████████${AnsiColor.BRIGHT_YELLOW}█████████████████████████████${AnsiColor.RED}██████████${AnsiStyle.NORMAL}
+${AnsiColor.RED}████████${AnsiColor.BRIGHT_YELLOW}█████████████████████████████████${AnsiColor.RED}████████${AnsiStyle.NORMAL}
+${AnsiColor.RED}███████${AnsiColor.BRIGHT_YELLOW}██████████████${AnsiColor.WHITE}███████${AnsiColor.BRIGHT_YELLOW}██████████████${AnsiColor.RED}███████${AnsiStyle.NORMAL}
+${AnsiColor.RED}██████${AnsiColor.BRIGHT_YELLOW}█████████████${AnsiColor.WHITE}███████████${AnsiColor.BRIGHT_YELLOW}█████████████${AnsiColor.RED}██████${AnsiStyle.NORMAL}
+${AnsiColor.RED}██████${AnsiColor.BRIGHT_YELLOW}██████████${AnsiColor.WHITE}██████${AnsiColor.BLACK}█████${AnsiColor.WHITE}██████${AnsiColor.BRIGHT_YELLOW}██████████${AnsiColor.RED}██████${AnsiStyle.NORMAL}
+${AnsiColor.RED}█████${AnsiColor.BRIGHT_YELLOW}██████████${AnsiColor.WHITE}██████${AnsiColor.BLACK}███████${AnsiColor.WHITE}██████${AnsiColor.BRIGHT_YELLOW}██████████${AnsiColor.RED}█████${AnsiStyle.NORMAL}
+${AnsiColor.RED}█████${AnsiColor.BRIGHT_YELLOW}██████████${AnsiColor.WHITE}██████${AnsiColor.BLACK}███████${AnsiColor.WHITE}██████${AnsiColor.BRIGHT_YELLOW}██████████${AnsiColor.RED}█████${AnsiStyle.NORMAL}
+${AnsiColor.RED}█████${AnsiColor.BRIGHT_YELLOW}███████████${AnsiColor.WHITE}██████${AnsiColor.BLACK}█████${AnsiColor.WHITE}██████${AnsiColor.BRIGHT_YELLOW}███████████${AnsiColor.RED}█████${AnsiStyle.NORMAL}
+${AnsiColor.RED}█████${AnsiColor.BRIGHT_YELLOW}████████████${AnsiColor.WHITE}███████████████${AnsiColor.BRIGHT_YELLOW}████████████${AnsiColor.RED}█████${AnsiStyle.NORMAL}
+${AnsiColor.RED}██████${AnsiColor.BRIGHT_YELLOW}██████████████${AnsiColor.WHITE}█████████${AnsiColor.BRIGHT_YELLOW}██████████████${AnsiColor.RED}██████${AnsiStyle.NORMAL}
+${AnsiColor.RED}██████${AnsiColor.BRIGHT_YELLOW}█████████████████████████████████████${AnsiColor.RED}██████${AnsiStyle.NORMAL}
+${AnsiColor.RED}███████${AnsiColor.BRIGHT_YELLOW}███████████████████████████████████${AnsiColor.RED}███████${AnsiStyle.NORMAL}
+${AnsiColor.RED}███████${AnsiColor.BRIGHT_YELLOW}███████████████████████████████████${AnsiColor.RED}███████${AnsiStyle.NORMAL}
+${AnsiColor.RED}████████${AnsiColor.BRIGHT_YELLOW}█████████████████████████████████${AnsiColor.RED}████████${AnsiStyle.NORMAL}
+${AnsiColor.RED}█████████${AnsiColor.BRIGHT_YELLOW}███████████████████████████████${AnsiColor.RED}█████████${AnsiStyle.NORMAL}
+${AnsiColor.RED}██████████${AnsiColor.BRIGHT_YELLOW}█████████████████████████████${AnsiColor.RED}██████████${AnsiStyle.NORMAL}
+${AnsiColor.RED}███████████${AnsiColor.BRIGHT_YELLOW}███████████████████████████${AnsiColor.RED}███████████${AnsiStyle.NORMAL}
+${AnsiColor.RED}████████████${AnsiColor.BRIGHT_YELLOW}████████████████████████${AnsiColor.RED}█████████████${AnsiStyle.NORMAL}
+${AnsiColor.RED}█████████████${AnsiColor.BRIGHT_YELLOW}██████████████████████${AnsiColor.RED}██████████████${AnsiStyle.NORMAL}
+${AnsiColor.RED}███████████████${AnsiColor.BRIGHT_YELLOW}██████████████████${AnsiColor.RED}████████████████${AnsiStyle.NORMAL}
+${AnsiColor.RED}█████████████████${AnsiColor.BRIGHT_YELLOW}██████████████${AnsiColor.RED}██████████████████${AnsiStyle.NORMAL}
+${AnsiColor.RED}████████████████████${AnsiColor.BRIGHT_YELLOW}████████${AnsiColor.RED}█████████████████████${AnsiStyle.NORMAL}
+${AnsiColor.RED}█████████████████████████████████████████████████${AnsiStyle.NORMAL}
+ Mindera Tech Day 2017 :+: Nailing Microservices
+  === Running Spring Boot ${spring-boot.formatted-version} ===
